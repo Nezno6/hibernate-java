@@ -11,6 +11,6 @@
 
         <!-- DB schema will be updated if needed -->
         <property name="hibernate.hbm2ddl.auto">update</property>
-        <mapping class="pl.sda.hibernate.demo.Student"/>
+        <mapping class="zad_dom_pojazd.Pojazd"/>
     </session-factory>
 </hibernate-configuration>
